@@ -41,8 +41,6 @@ title: Markdown语法
 
 
 
-
-
 `>五无序列表
 
 `* red
@@ -62,6 +60,8 @@ title: Markdown语法
 `>七分割线
 
 `***
+![image](https://raw.githubusercontent.com/Jaki0615/PIC/master/3.png)
+
 `>八超链接
 
 淘宝链接`[点击此处]`(http://taobao.com/ "taobao")
@@ -79,6 +79,7 @@ I get 10 times more traffic from [Google]` [1] `than from
 
  ` <http://example.com/>`
 
+![image](https://raw.githubusercontent.com/Jaki0615/PIC/master/4.png)
 
 `>九强调
 
@@ -87,7 +88,7 @@ I get 10 times more traffic from [Google]` [1] `than from
 `**double asterisks**`
 
 `__double underscores__`
-
+![image](https://raw.githubusercontent.com/Jaki0615/PIC/master/5.png)
 `>十代码code 高亮标记
 
 反引号【~】 `printf()` function.
@@ -100,4 +101,4 @@ I get 10 times more traffic from [Google]` [1] `than from
 `>十二电邮
 
 `<address@example.com>`
-
+![image](https://raw.githubusercontent.com/Jaki0615/PIC/master/6.png)
