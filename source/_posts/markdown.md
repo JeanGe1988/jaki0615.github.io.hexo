@@ -16,7 +16,7 @@ title: Markdown语法
 ##### h5
 ###### h6
 
-![标题](https://raw.githubusercontent.com/Jaki0615/PIC/master/1.png)
+![image](https://raw.githubusercontent.com/Jaki0615/PIC/master/1.png)
 
 >三区块引用fsfsfsfsfs地方放松放松 防守打法。区块引用fsfsfsfsfs地方放松放松区块引用fsfsfsfsfs地方放松放松区块引用fsfsfsfsfs地方放松放松区块引用fsfsfsfsfs地方放松放松区块引用fsfsfsfsfs地方放松放松区块引用fsfsfsfsfs地方放松放松
 
