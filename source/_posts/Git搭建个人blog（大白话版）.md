@@ -1,5 +1,5 @@
 ---
-title: Git搭建个人blog（大白话版）
+title: Git搭建个人blog——大白话版
 date: 2018-03-19 12:24:16
 tags: github
 ---
