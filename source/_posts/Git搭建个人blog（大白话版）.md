@@ -11,9 +11,12 @@ github 一直给我的感觉就是很高冷，至于原因嘛，我觉得主要�
 ok，话不多说，进入大白话版的 搭建个人博客，绝对简单易懂。
 
 ## 搭建个人博客步骤
+
 > 本地创建Hexo网站
+
 * 1 本地创建hexo文件夹
 * 2 下载安装git，node,hexo
+
 <table>
 <tr><td>node：用来生成静态页面的</td> </tr>
 <tr><td>git: 把本地的hexo内容提交到github上去.</td></tr>
@@ -32,14 +35,16 @@ ok，话不多说，进入大白话版的 搭建个人博客，绝对简单易�
 ![image](https://raw.githubusercontent.com/Jaki0615/PIC/master/9.jpg)
 
 >本地hexo 关联到github
+
 * 1 建立仓库
 ![image](https://raw.githubusercontent.com/Jaki0615/PIC/master/10.png)
 * 2在hexo文件夹中找到 _config.yml找到deployment。输入仓库关联的命令
 ![image](https://raw.githubusercontent.com/Jaki0615/PIC/master/11.png)
 * 3发布到github
+
 <table>
-<tr><td>hexo g</td></tr>
-<tr><td>hexo d<td></tr>
+<tr><td>hexo g</td> </tr>
+<tr><td>hexo d</td></tr>
 </table>
 
 关联成功：github url 和本地4000页面一样(我的截图不一样的原因：我改了主题)
